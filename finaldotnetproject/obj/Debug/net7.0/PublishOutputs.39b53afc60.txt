@@ -1,0 +1,7 @@
+/Users/tolgadegirmenci/Desktop/Files/finaldotnetproject/finaldotnetproject/bin/Debug/net7.0/publish/finaldotnetproject
+/Users/tolgadegirmenci/Desktop/Files/finaldotnetproject/finaldotnetproject/bin/Debug/net7.0/publish/appsettings.Development.json
+/Users/tolgadegirmenci/Desktop/Files/finaldotnetproject/finaldotnetproject/bin/Debug/net7.0/publish/appsettings.json
+/Users/tolgadegirmenci/Desktop/Files/finaldotnetproject/finaldotnetproject/bin/Debug/net7.0/publish/finaldotnetproject.dll
+/Users/tolgadegirmenci/Desktop/Files/finaldotnetproject/finaldotnetproject/bin/Debug/net7.0/publish/finaldotnetproject.deps.json
+/Users/tolgadegirmenci/Desktop/Files/finaldotnetproject/finaldotnetproject/bin/Debug/net7.0/publish/finaldotnetproject.runtimeconfig.json
+/Users/tolgadegirmenci/Desktop/Files/finaldotnetproject/finaldotnetproject/bin/Debug/net7.0/publish/finaldotnetproject.pdb

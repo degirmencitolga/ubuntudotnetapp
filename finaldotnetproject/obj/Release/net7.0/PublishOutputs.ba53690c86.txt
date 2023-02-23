@@ -1,0 +1,7 @@
+/Users/tolgadegirmenci/Desktop/untitled folder/DotnetDocker/finaldotnetproject/bin/NewPublish/finaldotnetproject
+/Users/tolgadegirmenci/Desktop/untitled folder/DotnetDocker/finaldotnetproject/bin/NewPublish/appsettings.Development.json
+/Users/tolgadegirmenci/Desktop/untitled folder/DotnetDocker/finaldotnetproject/bin/NewPublish/appsettings.json
+/Users/tolgadegirmenci/Desktop/untitled folder/DotnetDocker/finaldotnetproject/bin/NewPublish/finaldotnetproject.dll
+/Users/tolgadegirmenci/Desktop/untitled folder/DotnetDocker/finaldotnetproject/bin/NewPublish/finaldotnetproject.deps.json
+/Users/tolgadegirmenci/Desktop/untitled folder/DotnetDocker/finaldotnetproject/bin/NewPublish/finaldotnetproject.runtimeconfig.json
+/Users/tolgadegirmenci/Desktop/untitled folder/DotnetDocker/finaldotnetproject/bin/NewPublish/finaldotnetproject.pdb

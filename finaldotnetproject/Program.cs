@@ -4,7 +4,8 @@
 builder.Services.AddRazorPages();
 
 var app = builder.Build();
-
+app.Urls.Add("http://10.4.0.4:5053");
+app.Urls.Add("http://localhost:5053");//Windows IP
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tolgadegirmenci/Desktop/Files/finaldotnetproject/finaldotnetproject/finaldotnetproject.csproj": {}
+    "/Users/tolgadegirmenci/Desktop/untitled folder/DotnetDocker/finaldotnetproject/finaldotnetproject.csproj": {}
   },
   "projects": {
-    "/Users/tolgadegirmenci/Desktop/Files/finaldotnetproject/finaldotnetproject/finaldotnetproject.csproj": {
+    "/Users/tolgadegirmenci/Desktop/untitled folder/DotnetDocker/finaldotnetproject/finaldotnetproject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tolgadegirmenci/Desktop/Files/finaldotnetproject/finaldotnetproject/finaldotnetproject.csproj",
+        "projectUniqueName": "/Users/tolgadegirmenci/Desktop/untitled folder/DotnetDocker/finaldotnetproject/finaldotnetproject.csproj",
         "projectName": "finaldotnetproject",
-        "projectPath": "/Users/tolgadegirmenci/Desktop/Files/finaldotnetproject/finaldotnetproject/finaldotnetproject.csproj",
+        "projectPath": "/Users/tolgadegirmenci/Desktop/untitled folder/DotnetDocker/finaldotnetproject/finaldotnetproject.csproj",
         "packagesPath": "/Users/tolgadegirmenci/.nuget/packages/",
-        "outputPath": "/Users/tolgadegirmenci/Desktop/Files/finaldotnetproject/finaldotnetproject/obj/",
+        "outputPath": "/Users/tolgadegirmenci/Desktop/untitled folder/DotnetDocker/finaldotnetproject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tolgadegirmenci/.nuget/NuGet/NuGet.Config"
